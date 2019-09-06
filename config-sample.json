@@ -1,0 +1,11 @@
+{
+    "recipients" : [
+        "receiver@gmail.com"
+    ],
+    "sender" : {
+        "gmail" : "sender@gmail.com",
+        "password" : "apppassword"
+    },
+    "numOfPersons" : 3,
+    "dateOfVisit" : []
+}
