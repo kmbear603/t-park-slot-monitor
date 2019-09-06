@@ -38,7 +38,7 @@ Date.prototype.yyyymmddhhmmss = function() {
 };
 
 function readConfig(){
-    var text = fs.readFileSync("config.json");
+    var text = fs.readFileSync("./config.json");
     var json = JSON.parse(text);
 
     PERSON_COUNT = json["numOfPersons"];
