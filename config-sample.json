@@ -7,5 +7,5 @@
         "password" : "apppassword"
     },
     "numOfPersons" : 3,
-    "dateOfVisit" : []
+    "dateOfVisit" : [ "2019-09-07", "2019-09-14" ]
 }
